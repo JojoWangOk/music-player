@@ -3,7 +3,7 @@
 > yeah
 
 ## Build Setup
-
+学习中 https://github.com/ShanaMaid/vue-163-music
 ``` bash
 # install dependencies
 npm install
