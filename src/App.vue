@@ -33,6 +33,7 @@ export default {
     margin: 50px auto;
     padding: 0;
     box-shadow: 0 0 10px 7px #e1e1e2;
+    background: #ffffff;
   }
   .content{
     height: 572px;
